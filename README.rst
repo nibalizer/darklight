@@ -27,3 +27,4 @@ To Do
 This list is largely just for Corbin.
 
 The GUI needs to be finished. Any of them.
+Spencer is working on it, albeit at an extremely slow pace.
